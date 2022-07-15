@@ -1,0 +1,476 @@
+body {
+  background: url("../../client/src/assets/WaysBooks/FixBesar.png");
+}
+
+.login-btn {
+  width: 100px;
+  text-align: center;
+  color: #393939;
+  font-weight: 700 !important;
+  border: 2px solid !important;
+  border-radius: 0px !important;
+}
+
+.register-btn {
+  width: 100px;
+  text-align: center;
+  background-color: #393939 !important;
+  font-weight: 700 !important;
+  border: 2px solid #393939 !important;
+  border-radius: 0px !important;
+}
+
+.ant-btn {
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+.ant-row-rtl .ant-btn {
+  margin-right: 0;
+  margin-bottom: 8px;
+  margin-left: 8px;
+}
+
+.img-books {
+  width: 200px;
+  height: 270px;
+}
+
+.text-header-product-item {
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 25px;
+  min-height: 50px;
+  color: black;
+}
+
+.card-product {
+  width: 200px;
+  height: 415px;
+  display: flex;
+  flex-direction: column;
+}
+
+.text-author {
+  color: #929292;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  margin-top: 10px;
+}
+
+.text-product-item {
+  color: #44b200;
+  font-size: 18px;
+  font-weight: 800;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 15px;
+}
+
+.card-books {
+  display: flex;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.books-detail {
+  width: 300px;
+  height: 477px;
+}
+
+.title-books-detail {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 50px;
+}
+
+.title-detail {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.sub-title-detail {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  font-weight: 400;
+  padding-top: 10px;
+  color: #929292;
+}
+
+.title-about {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.thumb-detail {
+  margin-bottom: 50px;
+  margin-top: 10px;
+}
+
+.content-about {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #929292;
+}
+
+.btn-addcart {
+  width: 144px !important;
+  height: 50px !important;
+  background: #393939 !important;
+  font-weight: 600 !important;
+  font-size: 18px !important;
+  border: 2px solid #393939 !important;
+}
+
+.dropdown-text {
+  color: black !important;
+  font-weight: 700;
+  font-size: 12px;
+}
+
+.card-profile {
+  background-color: #ffd9d9;
+  min-width: 125vh;
+  border-radius: 4px;
+  padding: 10px;
+  padding-right: 30px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding-top: 20px;
+}
+
+.btn-change-profile {
+  background: #d60000 !important;
+  color: white !important;
+  font-weight: 700 !important;
+  font-size: 18px !important;
+  min-width: 226.67px !important;
+  min-height: 50px !important;
+  border: 1px #d60000 !important;
+  border-radius: 4px !important;
+  margin-top: 10px !important;
+  margin-left: 2px !important;
+}
+
+.text-profile-atas {
+  font-size: 14px !important;
+  font-weight: 800 !important;
+}
+
+.text-profile-bawah {
+  font-size: 12px !important;
+  font-weight: 400 !important;
+  color: #8a8c90;
+  padding-top: 5px;
+}
+
+.img-books-w-add-cart {
+  width: 236.22px;
+  height: 345.09px;
+}
+
+.card-books-w-add-cart {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.cards-w-add-cart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: fit-content;
+  margin-right: 10px;
+}
+
+.text-header-product-w-add-cart {
+  font-size: 20px !important;
+  font-weight: 700 !important;
+  min-height: 60px;
+}
+
+.btn-card-w-add-cart {
+  width: 100% !important;
+  height: 50px !important;
+  background: #393939 !important;
+  font-weight: 700 !important;
+  font-size: 18px !important;
+  color: white !important;
+  border: 2px #393939 !important;
+  margin-top: 15px;
+}
+
+.text-desc {
+  margin-top: 15px;
+  min-height: 60px;
+  font-weight: 400 !important;
+  font-size: 14px !important;
+  text-align: justify;
+}
+
+.card-product-w-add-cart {
+  width: 280px;
+  height: 280px;
+}
+
+.img-books-on-my-cart {
+  width: 130px;
+  height: 180px;
+}
+
+.btn-pay {
+  width: 100% !important;
+  height: 40px !important;
+  background: #393939 !important;
+  font-weight: 700 !important;
+  font-size: 18px !important;
+  color: white !important;
+  border: 2px #393939 !important;
+  margin-top: 65px;
+}
+
+.text-in-home {
+  font-weight: 400 !important;
+  font-size: 43px !important;
+  text-align: center;
+  min-height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.transaction-pages {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 90vh;
+}
+
+.mycart-pages {
+  display: flex;
+  justify-content: center;
+  min-height: 90vh;
+  margin-top: 50px;
+}
+
+.contentStyle {
+  height: "160px";
+  color: "#393939";
+  line-height: "160px";
+  text-align: "center";
+}
+
+.listbooks-pages {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 90vh;
+}
+
+.imgbook-list-book {
+  width: 100px !important;
+  height: 120px !important;
+}
+
+.tag-list-book {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center;
+  width: 70px !important;
+  height: 30px !important;
+}
+
+.modal-edit-books {
+  min-width: 1100px !important;
+}
+
+.complain-admin-pages {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 90vh;
+}
+
+.img-chat {
+  width: 40px !important;
+  height: 40px !important;
+  object-fit: cover !important;
+}
+
+.chat-me {
+  background: #262626;
+  border-radius: 5px;
+  padding: 10px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  max-width: 400px;
+}
+
+.chat-other {
+  background: #575757;
+  border-radius: 5px;
+  padding: 10px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  max-width: 400px;
+}
+
+.input-message {
+  width: 100%;
+  height: 90%;
+  background: rgba(171, 171, 171, 0.15);
+  border: none;
+  color: #ffffff;
+}
+
+.text-message-admin {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.text-message-status {
+  font-size: 11px;
+  font-weight: 400;
+  color: #595959;
+}
+
+.header-message {
+  background-color: #c4c4c4;
+  padding: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.content-message {
+  height: 70vh;
+  background-color: #dfdfdf;
+  overflow: auto;
+}
+
+.footer-message-customer {
+  height: 8vh;
+  background-color: #dfdfdf;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  justify-content: center !important;
+  display: flex;
+}
+
+.send-message-customer {
+  width: 70.64px !important;
+  height: 45px !important;
+  background-color: #fff !important;
+  min-width: 1100px !important;
+  border-radius: 10px !important;
+}
+
+.btn-send-message-customer {
+  background-color: #8ad0d0 !important;
+  margin-left: 5px;
+  width: 70.64px !important;
+  height: 45px !important;
+  border-radius: 10px !important;
+}
+
+.text-message-customer {
+  font-size: 15px;
+  font-weight: 600;
+  margin-left: 5px;
+}
+
+.header-message-customer {
+  background-color: #dfdfdf;
+  padding: 10px;
+  border-radius: 10px;
+  padding-top: 25px;
+  min-height: 30vh;
+  justify-content: start;
+  flex-direction: column;
+  padding-bottom: 50px;
+}
+
+.divider-message-customer {
+  border: 1px solid #a7a5a5 !important;
+  filter: blur(2px);
+  width: 100px;
+}
+
+.footer-message-admin {
+  height: 8vh;
+  background-color: #dfdfdf;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  justify-content: center !important;
+  display: flex;
+}
+
+.send-message-admin {
+  height: 45px !important;
+  background-color: #fff !important;
+  min-width: 800px !important;
+  border-radius: 10px !important;
+}
+
+.btn-send-message-admin {
+  background-color: #8ad0d0 !important;
+  margin-left: 5px;
+  width: 70.64px !important;
+  height: 45px !important;
+  border-radius: 10px !important;
+}
+
+.chat-me {
+  background: #262626;
+  border-radius: 5px;
+  padding: 10px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  max-width: 400px;
+}
+
+.chat-other {
+  background: #575757;
+  border-radius: 5px;
+  padding: 10px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  max-width: 400px;
+}
+
+.img-contact {
+  width: 50px !important;
+  height: 50px !important;
+  object-fit: cover !important;
+}
+
+.img-chat {
+  width: 40px !important;
+  height: 40px !important;
+  object-fit: cover !important;
+}
+
+.contact-active {
+  background-color: #212121;
+  border-radius: 5px;
+}
+
+.text-contact-chat {
+  color: #ababab;
+}
+
+.card-books-profile {
+  width: 90vw;
+}
+
+.card-product-profile {
+  margin-right: 20px;
+}
